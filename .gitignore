@@ -1,0 +1,13 @@
+/build/
+
+.DS_Store
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+*.apk
+*.ipa
